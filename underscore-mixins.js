@@ -6,6 +6,7 @@ var mixins = {
     var y = Math.pow(p2.y - p1.y,2);
     return Math.sqrt(x + y);
   },
+  //assumes there is a global for the canvas context called `con`
   translate: function(pos,callback){
     con.save();
     con.translate(pos.x,pos.y)
