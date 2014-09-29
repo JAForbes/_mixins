@@ -1,0 +1,11 @@
+{
+  "name": "_mixins",
+  "version": "0.0.0",
+  "description": "Underscore mixins I use when making games",
+  "main": "underscore-mixins.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JAForbes",
+  "license": "ISC"
+}
