@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JAForbes/_mixins/issues"
   },
-  "homepage": "https://github.com/JAForbes/_mixins"
+  "homepage": "https://github.com/JAForbes/_mixins",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
 }
